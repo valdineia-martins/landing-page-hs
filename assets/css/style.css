@@ -91,7 +91,7 @@ a {
 }
 .menu ul {
     list-style: none;
-    display: flex;
+    display: flex
 }
 .menu ul li a{
    display: block;
